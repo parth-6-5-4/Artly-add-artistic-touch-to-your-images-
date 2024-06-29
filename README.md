@@ -32,15 +32,8 @@ By minimizing the content loss, the generated image retains the content of the o
 (It was for version TensorFlow V1)
 
 
-## Some examples of the project
 
-#### Content and style images
 
-![image](https://cdn.discordapp.com/attachments/748848099891347498/794168270831353856/tRe7lwtniHiKzxOK0pl2g5HA6HwFwXCRc6dDhcDgcDofjIuESLYfD4XA4HI6LhEu0HA6HwFwOC4SLtFyOBwOh8PhuEi4RMvhcDgc.png)
-
-### Output
-
-![image](https://cdn.discordapp.com/attachments/748848099891347498/794168176110731264/uNsabtFDjw5F7SPtB5ZrBdeNPfbuXaH96JOWTIkCF3KLtdQhkyZMiQIffDA18yJAhQ5QhgYZMiQIXcoQwMfMmTIkDuUoYEPGTJky.png)
 
 ## How to run locally?
 
